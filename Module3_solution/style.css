@@ -1,0 +1,11 @@
+body {
+	color: black;
+}
+/*nav bar*/
+#header-nav {
+	background-color: grey;
+}
+.navbar-brand h1 {
+	text-align: left;
+	color: grey;
+}
